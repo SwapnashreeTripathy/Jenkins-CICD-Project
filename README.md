@@ -66,8 +66,13 @@ Requirements:
 
 ![image](https://github.com/SwapnashreeTripathy/Jenkins-CICD-Project/assets/139486876/d9a35e5e-173d-4e22-a96a-fb690f5608d0)
 ![image](https://github.com/SwapnashreeTripathy/Jenkins-CICD-Project/assets/139486876/c0f50fed-837c-4e21-ac12-3dfd35728274)
+
+![image](https://github.com/SwapnashreeTripathy/Jenkins-CICD-Project/assets/139486876/7873487c-683c-4c17-8f78-34d37e6bf1e1)
+
 ![image](https://github.com/SwapnashreeTripathy/Jenkins-CICD-Project/assets/139486876/d5c71751-641f-4c85-a6ed-7b9d3ebc80ca)
 ![image](https://github.com/SwapnashreeTripathy/Jenkins-CICD-Project/assets/139486876/7607694c-c8a5-45e1-a6d1-5159ab1df6a0)
+![image](https://github.com/SwapnashreeTripathy/Jenkins-CICD-Project/assets/139486876/89f16a12-fe67-411a-9605-7c721848fa58)
+
 
 
 
